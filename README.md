@@ -1,4 +1,4 @@
-# 📂 Renomeador de Arquivos JPG  
+# 📂 Renomeador de Arquivos JPG (pode ser qualquer arquivo em imagem, mudando o formato jpg para o formato da imagem desejada)  
 
 Este projeto é um script simples em **Python** que automatiza a contagem e o **renomeio de arquivos JPG** em uma pasta específica.  
 
